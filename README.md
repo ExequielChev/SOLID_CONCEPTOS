@@ -1,2 +1,0 @@
-# SOLID_CONCEPTOS
-
